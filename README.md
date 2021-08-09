@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zahraaberjawi
 - 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning Business Analytics
-- 💞️ I’m looking to collaborate on Sexism detection in social media
+- 🌱 I’m currently pursuing my Master's Degree in Business Analytics
 - 📫 How to reach me email: zahraaberjawi99@gmail.com
 
 <!---
